@@ -1,0 +1,22 @@
+name: physical_activity_predictor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h99b78c6_7
+  - ca-certificates=2024.8.30=hf0a4a13_0
+  - libexpat=2.6.3=hf9b8971_0
+  - libffi=3.4.2=h3422bc3_5
+  - libmpdec=4.0.0=h99b78c6_0
+  - libsqlite=3.47.0=hbaaea75_1
+  - libzlib=1.3.1=h8359307_2
+  - ncurses=6.5=h7bae524_1
+  - openssl=3.3.2=h8359307_0
+  - pip=24.3.1=pyh145f28c_0
+  - python=3.13.0=h75c3a9f_100_cp313
+  - python_abi=3.13=5_cp313
+  - readline=8.2=h92ec313_1
+  - tk=8.6.13=h5083fa2_1
+  - tzdata=2024b=hc8b5060_0
+  - xz=5.2.6=h57fd34a_0
+prefix: /opt/anaconda3/envs/physical_activity_predictor
