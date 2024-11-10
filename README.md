@@ -1,4 +1,7 @@
 # **Physical Activity Predictor**
+### Project Report
+https://github.com/1minute99/physical-activity-predictor/blob/main/main.ipynb
+
 ### Objective
 Building a Supervised Machine Learning Model that can predict various physical activity using the time series data.
 
