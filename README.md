@@ -6,7 +6,7 @@ https://github.com/1minute99/physical-activity-predictor/blob/main/main.ipynb
 Building a Supervised Machine Learning Model that can predict various physical activities using the time series data.
 
 ### Outcome
-The machine learning model was successfully built with near-perfect accuracy (99.96%) by applying the square root of sum of squares and temporal abstraction feature engineering, utilizing the Random Forest algorithm.
+The machine learning model was successfully built using the Random Forest model, achieving excellent accuracy with 99.79% on the test dataset and 98.07% through cross-validation, using a specific and reliable folding method tailored for time series data.
 
 ### About the data
 
