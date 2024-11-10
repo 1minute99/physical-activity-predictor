@@ -3,10 +3,10 @@
 https://github.com/1minute99/physical-activity-predictor/blob/main/main.ipynb
 
 ### Objective
-Building a Supervised Machine Learning Model that can predict various physical activity using the time series data.
+Building a Supervised Machine Learning Model that can predict various physical activities using the time series data.
 
 ### Outcome
-The machine learning model was successfully built with near-perfect accuracy (99.96%) by applying square root of sum of squares and temporal abstraction feature engineering, utilizing the Random Forest algorithm.
+The machine learning model was successfully built with near-perfect accuracy (99.96%) by applying the square root of sum of squares and temporal abstraction feature engineering, utilizing the Random Forest algorithm.
 
 ### About the data
 
@@ -26,7 +26,7 @@ The physical activities(label) are the following:
 - `Running (1 min)`
 - `Jump front & back (20x)`
 
-The dataset contains the features:
+The dataset contains the following features:
 - `acceleration from the chest sensor (X axis)`
 - `acceleration from the chest sensor (Y axis)`
 - `acceleration from the chest sensor (Z axis)`
